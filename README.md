@@ -14,6 +14,8 @@ It uses data from the Balance Sheet and Income Statement to calculate:
 - Improved profitability and liquidity in Year 2
 - Stable solvency position
 - Suitable for BBA/Finance students learning ratio analysis
+- ![Charts Screenshot](charts.png)
+
 
 ## 📂 File Structure
 - `Company_Financial_Statement_Analyzer.xlsx` — Financial data and ratio analysis
